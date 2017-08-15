@@ -1,0 +1,6 @@
+.navcolor {
+	background-image: -webkit-linear-gradient(270deg,rgba(228,172,51,1.00) 0%,rgba(255,0,0,1.00) 94.30%);
+	background-image: -moz-linear-gradient(270deg,rgba(228,172,51,1.00) 0%,rgba(255,0,0,1.00) 94.30%);
+	background-image: -o-linear-gradient(270deg,rgba(228,172,51,1.00) 0%,rgba(255,0,0,1.00) 94.30%);
+	background-image: linear-gradient(180deg,rgba(228,172,51,1.00) 0%,rgba(255,0,0,1.00) 94.30%);
+}
