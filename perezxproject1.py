@@ -35,8 +35,8 @@ def About():
     return render_template('about.html')
 
 @app.route('/contact')
-def Contact():
-    return render_template('about.html')
+def contact():
+    return render_template('contact.html')
 
 
 if __name__ == '__main__':
