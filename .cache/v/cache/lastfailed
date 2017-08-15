@@ -1,0 +1,5 @@
+{
+  "test.py::Itemscheck": true,
+  "test.py::Itemscheck::test_productquantity": true,
+  "test.py::Itemscheck::test_products": true
+}

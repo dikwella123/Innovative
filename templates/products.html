@@ -1,1 +1,10 @@
 PRODUCTS
+
+<div>
+<ul class="list-group">
+    {% for products in Products %}
+
+      <li class="list-group-item"><a href="product/{{product.id}}">{{Quantity}}</a></li>
+    {% endfor %}
+  </ul>
+  <div>
